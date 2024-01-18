@@ -45,4 +45,14 @@ A lot of Project: EnAble related updates are sent out via Twitter/X [@proj_enabl
 
 **Footnotes**
 
-[^1]: Can be used commercially by anyone; [^2]: Project: EnAble and its developers take on no liability with Project: EnAble, PEWAT, or The Project: EnAble Android Companion App; [^3]: When using Project: EnAble or any of its counterparts, you must give credit and copyright notice to `Project: EnAble© Jeron Osguthorpe 2023`; [^4]: Project: EnAble may be modified at your own free will, must follow conditions and acknowledge the limitations; [^5]: There is no warranty provided with or by Project: EnAble and it's counterparts; [^6]: If you have used Project: EnAble, you must disclose where and how you have used it within your code; [^7]: You may distribute Project: EnAble, however, you must follow the limitations and acknoledge the limitations; [^8]: When using Project: EnAble in your code, you must state any and all changes done to the code; [^9]: Project: EnAble may be used for Private Use, however, you must follow the conditions and acknoledge the limitations; [^10]: When you use Project: EnAble, fork, or distribute versions or creations using Project: EnAble, you must use the same licence library as Project: EnAble (LGPL); [^11]: PEWAT stands for `Project: EnAble Web App Testing`. 
+[^1]: Can be used commercially by anyone.
+[^2]: Project: EnAble and its developers take on no liability with Project: EnAble, PEWAT, or The Project: EnAble Android Companion App.
+[^3]: When using Project: EnAble or any of its counterparts, you must give credit and copyright notice to `Project: EnAble© Jeron Osguthorpe 2023`.
+[^4]: Project: EnAble may be modified at your own free will, must follow conditions and acknowledge the limitations.
+[^5]: There is no warranty provided with or by Project: EnAble and it's counterparts.
+[^6]: If you have used Project: EnAble, you must disclose where and how you have used it within your code.
+[^7]: You may distribute Project: EnAble, however, you must follow the limitations and acknoledge the limitations.
+[^8]: When using Project: EnAble in your code, you must state any and all changes done to the code.
+[^9]: Project: EnAble may be used for Private Use, however, you must follow the conditions and acknoledge the limitations.
+[^10]: When you use Project: EnAble, fork, or distribute versions or creations using Project: EnAble, you must use the same licence library as Project: EnAble (LGPL).
+[^11]: PEWAT stands for `Project: EnAble Web App Testing`. 
