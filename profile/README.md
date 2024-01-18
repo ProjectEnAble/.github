@@ -1,41 +1,48 @@
-# Project: EnAble© Organization
+# Project: EnAble Organization
+^[projectenable.org](http://projectenable.org)^
 
-Welcome to the Project: EnAble Organization GitHub Profile! This is a README.md file! This page/file contains all the basic information about the organization and development of Project: EnAble. To see an ind depth development, check out our repository on Project: EnAble, which is the official Project: EnAble repository for releasing and developing the project. There you will find change logs, specific licenses for software, supported versions, security information and more.
+Welcome to the Project: EnAble GitHub Organization profile! Project: EnAble is an open-source prosthetic system helping make the world a more accessible place. You can read more by visiting our website [projectenable.org](http://projectenable.org). 
 
-## About 
+## Versions
+there are many versions and editions of Project: EnAble. You can find out their information and repositories in the table below. 
+| Version | Editions/Supported Devices | Release Format |
+| ------- | -------------------------- | -------------- |
+| v4 | RPi Zero 2W | ==In Dev== |
+| v3 | [RPi 3B+ (and above)](http://rasp.projectenable.org), [Arduino Uno R2](http://arduino.projectenable.org) | Released, Beta |
+| v2 | RPi 3B+ (and above) | Dissolved | 
+| v1 | RPi 3B+ (and above) | Dissolved |
 
-Project: EnAble is a Prosthetic System and Design aimed towards creating affordable prosthetics for those with disabialities. Project: EnAble aims to create a prosthetic system and design to help create more affordable, open source prosthetics. By Engineering new ways to create prosthetics, Project: EnAble can help make the world a more accessible place. Due to the project being open source, this does mean it is free, however, you must follow license rules to access the source code. Source code cannot be altered in any way without written permission from Jeron Osguthorpe. Project: EnAble is under license.
+## Donations
 
-Starting as a Science Fair Project in 2020, Project: EnAble has attended mulitple science and engineering fairs, winning many prizes. Jeron Osguthorpe, the founder and lead developer created Project: EnAble in hopes to find a way to create an affordable, yet functional prosthetic system. Sepcializing in prosthetic hands, Project: EnAble can do more than just that. Project: EnAble hopes to be able to create a system that can be used on many prosthetics, such as feet, legs, arms, and more. 
+All donations to Project: EnAble will be used to help forward development to making the world a more accessible place. See [projectenable.org/donate](http://projectenable.org/donate) for FAQ and to donate. 
 
-## Donation Information
+## Legal Information
 
-We accept GitHub Donations, PayPal, CashApp, GoFundMe, and Venmo donations. All donations go towards the development of Project: EnAble, ensuring that the project is constantly being worked on and updated. With the donations, we can accelerate development, create better designs, and overall reach more people and create a better prodcut. Although we are not registered as a Non-Profit, we aim to never charge more than the materials and labor that the product takes (applies to all versions licensed under the LGPL-2.1). 
+### License (LGPL-2.1)
+Project: EnAble is licensed under LGPL-2.1 by Jeron Osguthorpe 2023. To learn more about what this licnese entails, please see the [license page](http://github.com/ProjectEnAble/Project-EnAble/blob/General/LICENSE). Please note that Project: EnAble does not supply any sort of warranty with it's code, products or applications. We are not responsible for any changes, damages and other complications. Use software/project at your own will. Below is an outline of what you can and cannot do with Project: EnAble.
 
-### Donation Links
+| Permissions | Limitations | Conditions | 
+| ----------- | ----------- | ---------- |
+| Commercial Use [^1] | Liability [^2] | License and Copyright Notice [^3] |
+| Modification [^4] | Warranty [^5] | Disclose Notice [^6] |
+| Distribution [^7] | - | State Changes [^8] |
+| Private Use [^9] | - | Same License (library) [^10] |
 
-[Venmo](https://account.venmo.com/u/Jeron-Osguthorpe)
+### Privacy Policy
+To see the privacy policy regarding use of features with Project: EnAble, PEWAT [^11], The Project: EnAble Android Companion App and more, visit [projectenable.org/privacy-policy](http://projectenable.org/privacy-policy).
 
-[CashApp](https://cash.app/$JeronOsguthorpe)
+### Delete Your Data
+If you would like to delete your stored data with Project: EnAble, PEWAT [^11], and/or The Project: EnAble Android Companion App, visit [projectenable.org/delete-your-data](http://projectenable.org/delete-your-data).
 
-[PayPal](https://www.paypal.com/donate/?hosted_button_id=R6QT5XCLWMW98)
-
-[GoFundMe](https://gofund.me/83201568)
-
-GitHub Sponsors will donate through GitHub. 
-
-## License and Copyright
-
-Project: EnAble is licensed under LGPL-2.1 by Jeron Osguthorpe 2023. To learn more about what this licnese entails, please see the license in the repository. 
-
-## YouTube, Social Media and our Online Presense
-
-Project: EnAble's main sorce of online presense would be through Twitter and GitHub. However, through the CodingTricksYT YouTube Channel, we post updates, and informational videos. You can see those by pressing the links below. 
-
-[YouTube](http://youtube.com/codingtricks)
-
-[Twitter](http://twitter.com/Proj_EnAble)
 
 ## Contact 
 
-You can contact Project: EnAble through @jeronosg by emailing enable@codingtricksyt.com. Feel free to email for any questions, comments, concerns or anything else. Thanks all for your support in Project: EnAble, it really means a lot. 
+You can contact Project: EnAble and the Project: EnAble dev team by emailing [support@projectenable.org](mailto:support@projectenable.org).
+
+### Updates
+A lot of Project: EnAble related updates are sent out via Twitter/X [@proj_enable](http://twitter.com/Proj_EnAble).
+
+
+**Footnotes**
+
+[^1]: Can be used commercially by anyone; [^2]: Project: EnAble and its developers take on no liability with Project: EnAble, PEWAT, or The Project: EnAble Android Companion App; [^3]: When using Project: EnAble or any of its counterparts, you must give credit and copyright notice to `Project: EnAble© Jeron Osguthorpe 2023`; [^4]: Project: EnAble may be modified at your own free will, must follow conditions and acknowledge the limitations; [^5]: There is no warranty provided with or by Project: EnAble and it's counterparts; [^6]: If you have used Project: EnAble, you must disclose where and how you have used it within your code; [^7]: You may distribute Project: EnAble, however, you must follow the limitations and acknoledge the limitations; [^8]: When using Project: EnAble in your code, you must state any and all changes done to the code; [^9]: Project: EnAble may be used for Private Use, however, you must follow the conditions and acknoledge the limitations; [^10]: When you use Project: EnAble, fork, or distribute versions or creations using Project: EnAble, you must use the same licence library as Project: EnAble (LGPL); [^11]: PEWAT stands for `Project: EnAble Web App Testing`. 
