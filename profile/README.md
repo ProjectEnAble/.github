@@ -31,10 +31,10 @@ Project: EnAble is licensed under LGPL-2.1 by Jeron Osguthorpe 2023. To learn mo
 | Private Use [^9] | - | Same License (library) [^10] |
 
 ### Privacy Policy
-To see the privacy policy regarding use of features with Project: EnAble, PEWAT [^11], The Project: EnAble Android Companion App and more, visit [projectenable.org/privacy-policy](http://projectenable.org/privacy-policy).
+To see the privacy policy regarding use of features with Project: EnAble, PEDAT [^11], The Project: EnAble Android Companion App and more, visit [projectenable.org/privacy-policy](http://projectenable.org/privacy-policy).
 
 ### Delete Your Data
-If you would like to delete your stored data with Project: EnAble, PEWAT [^11], and/or The Project: EnAble Android Companion App, visit [projectenable.org/delete-your-data](http://projectenable.org/delete-your-data).
+If you would like to delete your stored data with Project: EnAble, PEDAT [^11], and/or The Project: EnAble Android Companion App, visit [projectenable.org/delete-your-data](http://projectenable.org/delete-your-data).
 
 
 ## Contact 
@@ -48,7 +48,7 @@ A lot of Project: EnAble related updates are sent out via Twitter/X [@proj_enabl
 **Footnotes**
 
 [^1]: Can be used commercially by anyone.
-[^2]: Project: EnAble and its developers take on no liability with Project: EnAble, PEWAT, or The Project: EnAble Android Companion App.
+[^2]: Project: EnAble and its developers take on no liability with Project: EnAble, PEDAT, or The Project: EnAble Android Companion App.
 [^3]: When using Project: EnAble or any of its counterparts, you must give credit and copyright notice to `Project: EnAble© Jeron Osguthorpe 2023`.
 [^4]: Project: EnAble may be modified at your own free will, must follow conditions and acknowledge the limitations.
 [^5]: There is no warranty provided with or by Project: EnAble and it's counterparts.
@@ -57,4 +57,4 @@ A lot of Project: EnAble related updates are sent out via Twitter/X [@proj_enabl
 [^8]: When using Project: EnAble in your code, you must state any and all changes done to the code.
 [^9]: Project: EnAble may be used for Private Use, however, you must follow the conditions and acknoledge the limitations.
 [^10]: When you use Project: EnAble, fork, or distribute versions or creations using Project: EnAble, you must use the same licence library as Project: EnAble (LGPL).
-[^11]: PEWAT stands for `Project: EnAble Web App Testing`. 
+[^11]: PEDAT stands for `Prosthetic Enabling Devices And Technology`. 
