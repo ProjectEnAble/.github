@@ -1,16 +1,18 @@
-# Project: EnAble Organization
-^[projectenable.org](http://projectenable.org)^
+# PEDAT Prosthetics 
+^[pedat.org](http://pedat.org)^
+^Prosthetic Enabling Devices And Technology^
 
-Welcome to the Project: EnAble GitHub Organization profile! Project: EnAble is an open-source prosthetic system helping make the world a more accessible place. You can read more by visiting our website [projectenable.org](http://projectenable.org). 
+Welcome to the PEDAT Prosthetics GitHub Organization profile! PEDAT is an open-source prosthetic system helping make the world a more accessible place. You can read more by visiting our website [pedat.org](http://pedat.org). 
 
 ## Versions
 there are many versions and editions of Project: EnAble. You can find out their information and repositories in the table below. 
 | Version | Editions/Supported Devices | Release Format |
 | ------- | -------------------------- | -------------- |
-| v4 | RPi Zero 2W | ==In Dev== |
-| v3 | [RPi 3B+ (and above)](http://rasp.projectenable.org), [Arduino Uno R2](http://arduino.projectenable.org) | Released, Beta |
-| v2 | RPi 3B+ (and above) | Dissolved | 
-| v1 | RPi 3B+ (and above) | Dissolved |
+| v5 | Arduino Uno Q | == IN DEV == |
+| v4 | RPi Zero 2W | Discontinued |
+| v3 | [RPi 3B+ (and above)](http://rasp.projectenable.org), [Arduino Uno R2](http://arduino.projectenable.org) | Discontinued |
+| v2 | RPi 3B+ (and above) | Discontinued | 
+| v1 | RPi 3B+ (and above) | Discontinued |
 
 ## Donations
 
